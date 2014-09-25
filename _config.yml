@@ -1,0 +1,12 @@
+# Site settings
+title: 私人酒窖，红酒专家
+email: wiboshu@126.com
+description: > # this means to ignore newlines until "baseurl:"
+  私人酒窖
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://levinprive.cc" # the base hostname & protocol for your site
+twitter_username: 
+github_username: 
+
+# Build settings
+markdown: kramdown
